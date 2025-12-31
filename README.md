@@ -1,7 +1,7 @@
 # WIDS-Project-Mid-Term-Report
-Week -1
+# Week -1
 I have studied the basics of the Python programming language. This includes an understanding of data types, variables, lists, tuples, sets, dictionaries, and arrays. I have also learned fundamental problem-solving concepts such as conditional statements (if–else) and loops, and practiced several questions based on these topics. In addition, I have developed a basic understanding of machine learning, including the three main types of learning.
-Week-2
+# Week-2
 I have studied the Python library Pandas, which helps in efficiently reading, handling, and analyzing input data to obtain accurate results. I have also learned the fundamentals of machine learning, including the core concepts of neural networks, such as how they work, how they process information, and how they improve performance through feedback during training. Additionally, I have studied linear regression, focusing on graph-based analysis and error calculation to determine the best-fit line.
-Week-3
+# Week-3
 After completing the prerequisites, I worked on assignments that applied these concepts in practice. In one assignment, I predicted house prices based on their area by visualizing the data using graphs and applying linear regression. The model was tested on new inputs and improved iteratively with additional data. In the main assignment, I worked on predicting car fuel efficiency by using features such as horsepower and weight.
